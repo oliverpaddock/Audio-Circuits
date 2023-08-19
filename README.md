@@ -2,9 +2,9 @@
 A collection of audio circuits for various audio electronics designs
 
 ## File Structure
-Audio-Circuits/
 
 ```
+Audio-Circuits/
 |-- README.md
 |-- LICENSE
 |-- KiCAD/
