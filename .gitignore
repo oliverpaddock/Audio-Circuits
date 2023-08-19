@@ -1,6 +1,2 @@
-KiCAD/*.kicad_pcb
-KiCAD/*.kicad_prl
-KiCAD/*.kicad_pro
-KiCAD/*.kicad_sch
-KiCAD/sym-lib-table
-KiCAD/*backups
+KiCAD/*
+!KiCAD/componentlib.kicad_sym
